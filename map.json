@@ -1054,19 +1054,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Suitable for up to 100 users.\n\nWith great power comes great university. Or something like that.\nPay no attention to the dinosaurs, they don't bite."
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"University"
